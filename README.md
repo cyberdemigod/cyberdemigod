@@ -1,9 +1,8 @@
 # Hello World 🦍
               
 
-🦍 I AM THABO MAKHELE: CYBER SLEUTH & INFLUENCE OPS ANALYST
-   Decoding Digital Landscapes | Freelance Consultant
-   Theatre Nerd & Blogger | Bridging Tech & Creativity
+🦍 I'm Thabo Makhele, a [Cyber Sleuth & Influence Operations Analyst | Freelance Consultant | Theatre Nerd & Blogger](https://thabomakhele.bio/).
+
 
       ,     ,
                 (\____/)
@@ -17,4 +16,7 @@
                   ||     ||
                   @@     @@
    SECURING THE DIGITAL JUNGLE WITH PRIMAL FORCE!
+
+   
+Welcome to my GitHub profile! Feel free to explore my repositories and projects. 
 
