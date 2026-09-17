@@ -1,7 +1,7 @@
 # Hello World 🦍
               
 
-🦍 I'm Thabo Makhele, a [Cyber Sleuth & Influence Operations Analyst | Freelance Consultant | Theatre Nerd & Blogger](https://thabomakhele.bio/).
+🦍 I'm Thabo Makhele, a [Cyber Sleuth & Influence Operations Analyst | Freelance Consultant | Theatre Nerd & Blogger](https://about.me/thabomakhele).
 
 
       ,     ,
